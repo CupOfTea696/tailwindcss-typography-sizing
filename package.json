@@ -1,0 +1,25 @@
+{
+  "name": "tailwindcss-typography-sizing",
+  "version": "1.0.0",
+  "description": "Extra utility classes for typography sizing.",
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "plugin",
+    "tailwindcss-plugin"
+  ],
+  "main": "index.js",
+  "repository": "git@github.com:CupOfTea696/tailwindcss-typography-sizing.git",
+  "author": "Frankie Wittevrongel <frankie@cupoftea.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CupOfTea696/tailwindcss-typography-sizing/issues"
+  },
+  "homepage": "https://github.com/CupOfTea696/tailwindcss-typography-sizing#readme",
+  "devDependencies": {
+    "lodash": "^4.17.11"
+  },
+  "peerDependencies": {
+    "tailwindcss": "^0.5.0",
+  }
+}
